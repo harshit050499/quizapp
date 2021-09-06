@@ -1,0 +1,175 @@
+body
+{
+	background-color: #eee;
+}
+section
+{
+	float:left;
+	width: 100%;
+    margin-bottom: 25px;
+
+}
+.heading
+{
+	text-align: center;
+	font-size: 20px;
+
+}
+.main-head
+{
+	font-size: 20px;
+	font-weight: 700;
+	color:white;
+	text-align: center;
+	letter-spacing: 1.5px;
+}
+
+
+#loginbutton
+{
+    padding: 11px;s
+    border-radius: 5px;
+    min-width: 100px;
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+}
+#signupbutton
+{
+    padding: 11px;
+    border-radius: 5px;
+    min-width: 100px;
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+}
+fieldset
+{
+    background: white;
+    border-radius: 8px;
+    padding: 40px;
+    box-shadow: 0 0 1px 2px rgba(0,0,0,.075);
+}
+
+/*menu style*/
+
+.paddoff
+{
+    padding: 0;
+}
+.main-box
+{
+    min-height: 100vh;
+    width: 100%;
+    float:left;
+    background: #f44c27;
+}
+.contain-list
+{
+    width: 100%;
+    float: left;
+    
+    /* text-align: center; */
+    font-size: 20px;
+    margin: 12px 0px;
+}
+
+.contain-list li
+{
+        padding: 5px;
+    margin: 10px 0px;
+    list-style: none;
+}
+.contain-list a
+{
+    font-size: 23px;
+    color: white;
+    width: 100%;
+    text-decoration: none;
+    letter-spacing: 1.0px;
+}
+.contain-list i
+{
+    padding: 10px 15px;
+    font-size: 30px;
+    color:white;
+}
+li.active
+ {
+    margin: 0px 6px;
+ }
+.active
+{
+    background: white;
+    border-radius: 10px;
+    margin:0px 6px;
+}
+
+.active i
+{
+    
+    color:black!important;
+}
+.active a
+{
+    color:black;
+}
+
+/*menu style end*/
+
+.contain-input
+{
+	float: left;
+    width: 100%;
+    padding: 10px;
+}
+
+.box-heading
+{
+	text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    text-decoration: underline;
+    letter-spacing: 1.5px;
+    background: rgb(20 41 72);
+    padding-top: 20px;
+    padding-bottom: 130px;
+    color: white;
+}
+.box-body
+{
+	float: left;
+    width: 100%;
+    padding: 30px;
+}
+.contain-form
+{
+	background: white;
+    z-index: 1;
+    /* position: absolute; */
+    /* text-align: center; */
+    margin-top: -130px;
+    float: left;
+    width: 100%;
+    /* border: 3px solid black; */
+    border-radius: 25px;
+    padding: 20px;
+    box-shadow: 0 0 2px 3px rgb(0 0 0 / 25%);
+}
+.form-group
+{
+	float: left;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+.sample
+{
+    font-size: 40px!important;
+}
